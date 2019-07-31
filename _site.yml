@@ -3,14 +3,9 @@ output_dir: "."
 navbar:
   title: "William Lee"
   left:
-    - text: "Writing"
+    - text: "Research"
       href: research.html
-    - text: "Speaking"
-      href: talks.html
-    - text: "Programming"
-      href: software.html
-    - text: "Teaching"
-      href: teaching.html
+
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
