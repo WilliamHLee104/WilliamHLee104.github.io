@@ -3,10 +3,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="links/WilliamLeeProfile.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="left">
-
-
+<img src="links/WilliamLeeProfile.JPG" style="width:50%; border:10px solid; margin-right: 20px" align="left">
 
 I graduated from the University of Pennsylvania with a BA in Mathematical Economics in 2019. While at Penn, I worked as a Research Assistant for Marja Hoek-Smik at [HOFINET](http://hofinet.org) (Housing Finance Information Network)
-
 
