@@ -1,0 +1,18 @@
+---
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(lubridate)
+```
+
+```{r label, fig.cap = "caption"}
+knitr::include_graphics("links/Resume.pdf")
+```
+
+
+```{r test, eval = F}
+<img src="links/Resume.pdf" alt="some text"  width="4200" height="4200">
+```
+
+<p>Open a PDF file <a href="links/Resume.pdf">example</a>.</p>

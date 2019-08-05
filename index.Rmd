@@ -1,9 +1,16 @@
 ---
 ---
 
+```{r setup, include= F}
+library(tidyverse)
+```
+
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <img src="links/WilliamLeeProfile.JPG" style="width:50%; border:10px solid; margin-right: 20px" align="left">
 
-I graduated from the University of Pennsylvania with a BA in Mathematical Economics in 2019. While at Penn, I worked as a Research Assistant for Marja Hoek-Smik at [HOFINET](http://hofinet.org) (Housing Finance Information Network)
+I graduated from the University of Pennsylvania with a BA in Mathematical Economics and a Minor in Statistics in 2019. While at Penn, I worked as a Research Assistant for Marja Hoek-Smik at [HOFINET](http://hofinet.org) (Housing Finance Information Network). I was also active in [Wharton Public Policy Initiative: Student Group](https://publicpolicy.wharton.upenn.edu/for-students/student-group/). 
 
+After graduation, I joined the [Federal Reserve Bank of Chicago](https://www.chicagofed.org/) as a Research Assistant in the [Finance Group](https://www.chicagofed.org/people/person-listing?filter_team=5). In addition to policy work, I focus on household finance, housing markets, and intergenerational mobility. 
+
+Here is my [CV](links/Resume.pdf)  (Last Updated: `r format(Sys.time(), format = "%m-%d-%Y")`)
