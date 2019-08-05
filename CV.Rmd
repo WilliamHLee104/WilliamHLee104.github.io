@@ -7,4 +7,4 @@ library(lubridate)
 ```
 
 
-<img src="links/Resume.pdf" style="width:50%; border:10px solid; margin-right: 20px" align="left">
+<img src="links/Resume.pdf" style="width:90%; border:10px solid; margin-right: 20px" align="left">
