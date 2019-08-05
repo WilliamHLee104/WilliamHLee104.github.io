@@ -6,14 +6,5 @@ library(tidyverse)
 library(lubridate)
 ```
 
-```{r label, fig.cap = "caption"}
-knitr::include_graphics("links/Resume.pdf")
-```
 
-
-```{r test, eval = F}
-<img src="links/Resume.pdf" alt="some text"  width="4200" height="4200">
-```
-
-<embed src="http://example.com/the.pdf" width="1000" height="" type="application/pdf">
- 
+<img src="links/Resume.pdf" style="width:50%; border:10px solid; margin-right: 20px" align="left">
