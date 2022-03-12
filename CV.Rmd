@@ -7,4 +7,4 @@ library(lubridate)
 ```
 
 
-<embed src="https://williamhlee104.github.io/links/Resume.pdf" width="800px" height="2100px" />
+<embed src="https://williamhlee104.github.io/links/Lee_Resume.pdf" width="800px" height="2100px" />
