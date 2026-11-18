@@ -6,8 +6,6 @@ My research covers household finance, real estate, and public economics. I am in
 
 ## Papers & Projects
 
-**Property Tax Impacts: Evidence From Cook County**
+**Property Tax Impacts: Evidence From Cook County** &nbsp;<a href="links/Lee_PropertyTax_Slides.pdf" style="color:#4E2A84; font-weight:bold;">[Slides]</a>
 
 Using high-quality administrative data and exogenous variation from changes to the automated valuation model used by the Cook County Assessor's Office, I precisely estimate the effects of property tax assessments on a range of outcomes: appeals, tax delinquency, home sales, home investment, and voting.
-
-[Slides](links/Lee_PropertyTax_Slides.pdf)
