@@ -2,7 +2,12 @@
 
 ---
 
+My research covers household finance, real estate, and public economics. I am interested in how people order their lives and how we structure our governments.
+
 ## Papers & Projects
 
-**Property Tax Assessments and Homeowner Behavior: Evidence from Cook County's Road Proximity Adjustments** ([slides](links/Lee_PropertyTax_Slides.pdf))
+**Property Tax Impacts: Evidence From Cook County**
 
+Using high-quality administrative data and exogenous variation from changes to the automated valuation model used by the Cook County Assessor's Office, I precisely estimate the effects of property tax assessments on a range of outcomes: appeals, tax delinquency, home sales, home investment, and voting.
+
+[Slides](links/Lee_PropertyTax_Slides.pdf)
