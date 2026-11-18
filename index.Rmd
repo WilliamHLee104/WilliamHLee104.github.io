@@ -1,17 +1,10 @@
 ---
 ---
 
-```{r setup, include= F}
-library(tidyverse)
-```
-
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="links/WilliamLeeProfile.JPG" style="width:50%; border:10px solid; margin-right: 20px" align="left">
+<img src="links/yearbook.jpg" style="width:40%; border:10px solid; margin-right: 20px" align="left">
 
-I graduated from the University of Pennsylvania with a BA in Mathematical Economics (with Honors) and a Minor in Statistics in 2019. While at Penn, I worked as a Research Assistant for Marja Hoek-Smik at [HOFINET](http://hofinet.org) (Housing Finance Information Network) and was also active in [Wharton Public Policy Initiative: Student Group](https://publicpolicy.wharton.upenn.edu/for-students/student-group/). 
+I am a PhD Candidate at the Kellogg School of Management, Northwestern University. My research interests are household finance, real estate finance, and public finance.
 
-After graduation, I joined the [Federal Reserve Bank of Chicago](https://www.chicagofed.org/) as a Research Assistant in the [Finance Group](https://www.chicagofed.org/people/person-listing?filter_team=5). My main research interests are housing and household finance. I am primarily interested in topics of mortgage market structure, impacts of financial regulation on consumer welfare, and understanding consumers’ behavioral responses policy shocks. 
-
-
-Here is my [CV](links/Lee_Resume.pdf)  (Last Updated: `r format(Sys.time(), format = "%m-%d-%Y")`)
+Before starting my PhD, I was a Research Assistant in the Finance Group at the [Federal Reserve Bank of Chicago](https://www.chicagofed.org/).
